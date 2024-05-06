@@ -1,0 +1,11 @@
+[Sat Apr 27 17:15:54.851940 2024] [:notice] [pid 18974] FastCGI: process manager initialized (pid 18974)
+[Sat Apr 27 17:15:54.853058 2024] [mpm_prefork:notice] [pid 18968] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Apr 27 17:15:54.853163 2024] [core:notice] [pid 18968] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Apr 27 17:29:35.099253 2024] [mpm_prefork:notice] [pid 18968] AH00169: caught SIGTERM, shutting down
+[Mon Apr 29 18:57:56.709836 2024] [:notice] [pid 87956] FastCGI: process manager initialized (pid 87956)
+[Mon Apr 29 18:57:56.710841 2024] [mpm_prefork:notice] [pid 87952] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Apr 29 18:57:56.710947 2024] [core:notice] [pid 87952] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Apr 30 23:04:56.125052 2024] [mpm_prefork:notice] [pid 87952] AH00169: caught SIGTERM, shutting down
+[Mon May 06 12:29:53.120798 2024] [:notice] [pid 55962] FastCGI: process manager initialized (pid 55962)
+[Mon May 06 12:29:53.121949 2024] [mpm_prefork:notice] [pid 55958] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon May 06 12:29:53.122075 2024] [core:notice] [pid 55958] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
